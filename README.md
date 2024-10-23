@@ -22,7 +22,7 @@ TASK 3 - Medical Image Analysis
 
 Aim : To Develop an AI model for medical image analysis to assist in the diagnosis of diseases.
 
-Description : Utilize deep learning techniques for medical image classification which enable in predicting the disease.
+Description : Utilized deep learning techniques for medical image classification which enable in predicting the disease.
 
 Technologies : Python, TensorFlow, CNN
 
