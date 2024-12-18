@@ -1,6 +1,6 @@
 # CodeClauseInternship_Projects
 
-## TASK 1 - CHATBOT CREATION
+## TASK 1 - Chatbot Creation
 
 AIM : To Develop a simple chatbot that can engage in basic conversations with users.
 
@@ -8,7 +8,7 @@ Description : Built a simple chatbot using natural language processing (NLP) lib
 
 Technologies : Python, NLTK.
 
-## TASK 2 - IMAGE RECOGNITION
+## TASK 2 - Image Recognition
 
 Aim : To Build an image classifier using CNN.
 
