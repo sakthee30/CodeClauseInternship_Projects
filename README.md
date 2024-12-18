@@ -1,6 +1,6 @@
 # CodeClauseInternship_Projects
 
-TASK 1 - CHATBOT CREATION
+## TASK 1 - CHATBOT CREATION
 
 AIM : To Develop a simple chatbot that can engage in basic conversations with users.
 
@@ -8,7 +8,7 @@ Description : Built a simple chatbot using natural language processing (NLP) lib
 
 Technologies : Python, NLTK.
 
-TASK 2 - IMAGE RECOGNITION
+## TASK 2 - IMAGE RECOGNITION
 
 Aim : To Build an image classifier using CNN.
 
@@ -18,7 +18,7 @@ Technologies : Python, TensorFlow and CNN
 
 Dataset : https://www.kaggle.com/datasets/fedesoriano/cifar10-python-in-csv
 
-TASK 3 - Medical Image Analysis
+## TASK 3 - Medical Image Analysis
 
 Aim : To Develop an AI model for medical image analysis to assist in the diagnosis of diseases.
 
