@@ -2,7 +2,7 @@
 
 ## TASK 1 - Chatbot Creation
 
-### AIM : To Develop a simple chatbot that can engage in basic conversations with users.
+Aim : To Develop a simple chatbot that can engage in basic conversations with users.
 
 Description : Built a simple chatbot using natural language processing (NLP) libraries like NLTK and trained the bot on predefined responses which interact with the users with basic conversations.
 
